@@ -1,7 +1,7 @@
 # HealthAccess
 
 HealthAccess is a patient-controlled emergency health summary and care
-navigation service. A patient chooses a small emergency profile, can share it by
+navigation service. A patient bsbdnchooses a small emergency profile, can share it by
 a short code, and can find suitable care. SMS and USSD keep the same access
 available on a basic phone without mobile data.
 
